@@ -51,7 +51,7 @@
     "acorn-dynamic-import": "^2.0.2",
     "acorn-jsx": "^4.0.1",
     "acorn-object-spread": "LivelyKernel/acorn-object-spread",
-    "axios": "^0.16.2",
+    "axios": "^1.12.0",
     "babel-core": "^6.26.0",
     "babel-plugin-dynamic-import-node": "^1.1.0",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
@@ -74,7 +74,7 @@
     "lodash.pickby": "^4.6.0",
     "lru-cache": "^4.1.1",
     "node-fetch": "^1.7.3",
-    "pacote": "^2.7.31",
+    "pacote": "^10.0.0",
     "redis": "^2.7.1",
     "rimraf": "^2.6.1",
     "shortid": "^2.2.8"
